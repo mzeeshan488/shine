@@ -235,7 +235,7 @@ h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 8px;
-  background-color: rgb(65, 70, 50);
+  background-color:white;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -364,6 +364,7 @@ h6 {
   #hero .carousel-control-next {
     width: 5%;
   }
+
 }
 
 /*--------------------------------------------------------------
