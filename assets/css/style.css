@@ -520,8 +520,11 @@ section {
   
 }
 @media(max-width:700px){
-  .row{
+  /* .row .mobile{
       flex-direction: column;
+  } */
+  .course .card img{
+    width: 10rem;
   }
   .course-width{
       width: 100%;
