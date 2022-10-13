@@ -468,8 +468,11 @@ section {
 }
 
 .course-width .section-title h2{
-  color: #fff;
-  
+  color: #fff;  
+}
+.input-group{
+  width: 30%;
+  margin: 50px auto 0px auto;
 }
 .course{
   width: 80%;
